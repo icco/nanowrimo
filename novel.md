@@ -30,4 +30,6 @@ This city is toxic to my memories. I need to get out of here.
 
 I was able to sell most of my possessions so I could carry everything in one trip, but I kept two bags of supplies, my laptop, and a semi-automatic rifle I stole from the Air Force base. I move into my new loft. It contains a couch, a TV and a bed. It even has a small fridge and hot plate. The bathroom worked, although there was no hot water. I did a little reading before falling asleep on the couch.
 
-I awoke quickly to the sound of a bell. It took me a few seconds to grab my bearings, but everything seemed copasetic. 
+I awoke quickly to the sound of a bell. It took me a few seconds to grab my bearings as I glanced at the clock, but everything seemed copasetic. It was four in the morning, and I heard movement in the coffee shop below. The cold water stung as I showered. I put together my bag with the days essentials, and dressed. A cute t-shirt, some tight jeans and a pair of flats adorned my fit frame.
+
+I walked downstairs to see a man putting pastries in a display case and an older woman restocking a fridge with milk. The woman's name was Gretta and was both my new boss and land lord. She turned towards me as I stood at the bottom of the stair case. "Good morning, ________." She said. "Sleep well?"
