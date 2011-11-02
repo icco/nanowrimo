@@ -2,8 +2,9 @@
 # This little script parses stdin or a file name and counts the words and your progress towards NanoWriMo.
 # Author: Nat Welch (@icco)
 
-WORDS_PER_DAY = 1667
+TOTAL_WORDS = 50000
 DAYS_IN_NOV = 30
+WORDS_PER_DAY = 1667
 
 def help
   puts <<-help
@@ -24,6 +25,7 @@ def count str
   puts "  Words typed:  #{count}"
   puts "  Words needed: #{needed}"
   puts "  Left Today:   #{remaining}"
+  puts "  Left Total:   #{TOTAL_WORDS-count}"
 
   return count
 end
