@@ -32,4 +32,10 @@ I was able to sell most of my possessions so I could carry everything in one tri
 
 I awoke quickly to the sound of a bell. It took me a few seconds to grab my bearings as I glanced at the clock, but everything seemed copasetic. It was four in the morning, and I heard movement in the coffee shop below. The cold water stung as I showered. I put together my bag with the days essentials, and dressed. A cute t-shirt, some tight jeans and a pair of flats adorned my fit frame.
 
-I walked downstairs to see a man putting pastries in a display case and an older woman restocking a fridge with milk. The woman's name was Gretta and was both my new boss and land lord. She turned towards me as I stood at the bottom of the stair case. "Good morning, ________." She said. "Sleep well?"
+I walked downstairs to see a man putting pastries in a display case and an older woman restocking a fridge with milk. The woman's name was Gretta and was both my new boss and land lord. She turned towards me as I stood at the bottom of the stair case. "Good morning, Kristen." She said. "Sleep well?"
+
+"Yup. How can I help?
+
+"Why don't you grab one of those bags of beans in the corner and refill the grinder."
+
+I refilled the grinder, cleaned off a few of the machines and then made the three of us americanos. They both said thank you, but from what I could tell, they did not seem too impressed. 
