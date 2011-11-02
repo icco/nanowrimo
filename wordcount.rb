@@ -31,10 +31,9 @@ def count str
   month_rem = TOTAL_WORDS-count
 
   puts "#{date.strftime("%B %e, %Y")}:"
-  puts "  Words typed:  #{count.nice}"
-  puts "  Words needed: #{needed.nice}"
-  puts "  Left Today:   #{remaining.nice}"
-  puts "  Left Total:   #{month_rem.nice}"
+  puts "  Count:  #{count.nice}"
+  puts "  Today:  #{remaining.nice} of #{needed.nice} remaining"
+  puts "  Total:  #{month_rem.nice} of #{TOTAL_WORDS.nice} remaining"
 
   return count
 end
