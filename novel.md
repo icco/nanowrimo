@@ -28,4 +28,4 @@ This city is toxic to my memories. I need to get out of here.
 
 ## Chapter Two
 
-I was able to sell most of my possesions, but I keep two bags of supplies, my laptop, and a semi-automatic rifle I stole from the Air Force base. I move into my new loft. It contains a couch, a TV and a bed. It even has a small fridge and hot plate. The bathroom works, although there is no hot water.
+I was able to sell most of my possesions so I could carry everything in one trip, but I kept two bags of supplies, my laptop, and a semi-automatic rifle I stole from the Air Force base. I move into my new loft. It contains a couch, a TV and a bed. It even has a small fridge and hot plate. The bathroom works, although there is no hot water.
