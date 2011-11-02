@@ -14,6 +14,8 @@ def help
   help
 end
 
+# Puts commas in integers. Stolen from Rails:
+# http://api.rubyonrails.org/classes/ActionView/Helpers/NumberHelper.html
 class Integer
   def nice
     return self.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
