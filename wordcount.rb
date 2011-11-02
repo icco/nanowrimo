@@ -8,8 +8,8 @@ DAYS_IN_NOV = 30
 def help
   puts <<-help
     Usage:
-      $ lessc < style.less
-      $ lessc file1.less file2.less
+      $ wordcount.rb < file
+      $ wordcount.rb file file2
   help
 end
 
