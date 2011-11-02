@@ -34,6 +34,7 @@ def count str
   puts "  Count:  #{count.nice}"
   puts "  Today:  #{remaining.nice} of #{needed.nice} remaining"
   puts "  Total:  #{month_rem.nice} of #{TOTAL_WORDS.nice} remaining"
+  puts ""
 
   return count
 end
