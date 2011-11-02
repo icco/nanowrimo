@@ -1,3 +1,7 @@
 # Book Title goes here.
 
-Someone famous once said "This is the way the world ends, Not with a bang but a whimper." This quote has been on my mind a lot lately. You see, San Francisco has been changing. It used to be when you walked the streets, you would see people hoping on Muni or running underground for the Bart. People who lived in the city, worked in the city. Now, private white buses fill the streets. Google is building their own train system down below the streets.
+  This is the way the world ends
+  Not with a bang but a whimper
+    -- T.S. Elliott
+
+In the fall of 2015, I was living in San Francisco. San Francisco is a fantastic place in autumn. The season starts with what the locals call "Indian Summer" (which is actually a meteorological term, according to the internet), where it is sunny all day and the temperature stays in the high seventies. Then the weather starts to cool down. My walk to the bus turns into a swim through pea soup fog. If London still had fog, I would imagine it being far less dense than this.
