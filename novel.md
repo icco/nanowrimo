@@ -44,8 +44,13 @@ The day went by fast. I spent the time cleaning, taking peoples money, making co
 
 Around the end of the day though, a man made an order, and walked out of the store. While he was ordering, he gave Gretta a piece of paper. "What was that all about?" I inquired.
 
-"You have to make a delivery."
+"We run a delivery business on the side. Basically we have got a group of people who need supplies in troubled parts of the city."
 
-"Oh."
+"Oh, that's pretty cool. Well, do you mind if I take off? I've got some errands I need to run."
 
-"Go to 254 Market St. with this thermos." Her husband tossed me a thermos. "And get there in under an hour. Once you're done, you can have the rest of the day off."
+
+"Actually, I was hoping you would do this delivery for us. Do you have some time?" 
+
+"Sure. I can take care of my errands later."
+
+"Fantastic. Go to 254 Market St. and deliver that black thermos on the counter to Mike Bruchez." Her husband tossed me the thermos. "And try to get there in under an hour. He's all paid up, but he'll probably have a delivery or something for you to run. We'll see you tomorrow morning." I grabbed my backpack and shoved the theromos inside.
