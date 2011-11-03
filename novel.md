@@ -53,4 +53,7 @@ Around the end of the day though, a man made an order, and walked out of the sto
 
 "Sure. I can take care of my errands later."
 
-"Fantastic. Go to 254 Market St. and deliver that black thermos on the counter to Mike Bruchez." Her husband tossed me the thermos. "And try to get there in under an hour. He's all paid up, but he'll probably have a delivery or something for you to run. We'll see you tomorrow morning." I grabbed my backpack and shoved the theromos inside.
+"Fantastic. Go to 254 Market St. and deliver that black thermos on the counter to Mike Bruchez." Her husband tossed me the thermos. "And try to get there in under an hour. He's all paid up, but he'll probably have a delivery or something for you to run. We'll see you tomorrow morning." I grabbed my backpack and shoved the theromos inside. As I headed for the door, they told me to take the green road bike leaning next to the door.
+
+I hoped on the bike and started biking up hill. I headed for West Portal. The Muni went underground there, and the tunnel ran all the way to Embarcadero, the opposite side of the city. A few years back they actually paved a bike path next to the train tracks. It is the fastest way to get downtown, but you tend to have to deal with a lot of unsavory characters. I decided to go for it, but I had a feeling it wouldn't go well.
+
