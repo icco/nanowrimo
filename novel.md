@@ -57,3 +57,5 @@ Around the end of the day though, a man made an order, and walked out of the sto
 
 I hoped on the bike and started biking up hill. I headed for West Portal. The Muni went underground there, and the tunnel ran all the way to Embarcadero, the opposite side of the city. A few years back they actually paved a bike path next to the train tracks. It is the fastest way to get downtown, but you tend to have to deal with a lot of unsavory characters. I decided to go for it, but I had a feeling it wouldn't go well.
 
+I flew down the hill leading to the Muni station. I was hoping maybe a train was going to be sitting there to make my trip easy, but alas, the next train was two hours out. I entered the station, and got onto the bike path. Slowly my eyes adjusted to the glow of tunnel lighting. I checked my pistol, and started riding into the dim cooridor.
+
