@@ -41,3 +41,11 @@ I walked downstairs to see a man putting pastries in a display case and an older
 I refilled the grinder, cleaned off a few of the machines and then made the three of us americanos. They both said thank you, but from what I could tell, they did not seem impressed. 
 
 The day went by fast. I spent the time cleaning, taking peoples money, making coffee and cleaning some more.
+
+Around the end of the day though, a man made an order, and walked out of the store. While he was ordering, he gave Gretta a piece of paper. "What was that all about?" I inquired.
+
+"You have to make a delivery."
+
+"Oh."
+
+"Go to 254 Market St. with this thermos." Her husband tossed me a thermos. "And get there in under an hour. Once you're done, you can have the rest of the day off."
