@@ -59,3 +59,4 @@ I hoped on the bike and started biking up hill. I headed for West Portal. The Mu
 
 I flew down the hill leading to the Muni station. I was hoping maybe a train was going to be sitting there to make my trip easy, but alas, the next train was two hours out. I entered the station, and got onto the bike path. Slowly my eyes adjusted to the glow of tunnel lighting. I checked my pistol, and started riding into the dim cooridor.
 
+I traversed the pathways full of homeless people. The city was still running for the most part, even though money was quickly running out. Cops still roamed the tunnel, clearing out dead bodies and keeping the peace. While many of the lights still lit the tunnel, all of the security cameras had been destroyed long ago. 
