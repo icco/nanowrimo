@@ -38,7 +38,7 @@ I walked downstairs to see a man putting pastries in a display case and an older
 
 "Why don't you grab one of those bags of beans in the corner and refill the grinder."
 
-I refilled the grinder, cleaned off a few of the machines and then made the three of us americanos. They both said thank you, but from what I could tell, they did not seem impressed. 
+I refilled the grinder, cleaned off a few of the machines and then made the three of us americanos. They both said thank you, but from what I could tell, they did not seem impressed.
 
 The day went by fast. I spent the time cleaning, taking peoples money, making coffee and cleaning some more.
 
@@ -49,7 +49,7 @@ Around the end of the day though, a man made an order, and walked out of the sto
 "Oh, that's pretty cool. Well, do you mind if I take off? I've got some errands I need to run."
 
 
-"Actually, I was hoping you would do this delivery for us. Do you have some time?" 
+"Actually, I was hoping you would do this delivery for us. Do you have some time?"
 
 "Sure. I can take care of my errands later."
 
@@ -59,4 +59,10 @@ I hoped on the bike and started biking up hill. I headed for West Portal. The Mu
 
 I flew down the hill leading to the Muni station. I was hoping maybe a train was going to be sitting there to make my trip easy, but alas, the next train was two hours out. I entered the station, and got onto the bike path. Slowly my eyes adjusted to the glow of tunnel lighting. I checked my pistol, and started riding into the dim cooridor.
 
-I traversed the pathways full of homeless people. The city was still running for the most part, even though money was quickly running out. Cops still roamed the tunnel, clearing out dead bodies and keeping the peace. While many of the lights still lit the tunnel, all of the security cameras had been destroyed long ago. 
+I traversed the pathways full of homeless people. The city was still running for the most part, even though money was quickly running out. Cops still roamed the tunnel, clearing out dead bodies and keeping the peace. While many of the lights still lit the tunnel, all of the security cameras had been destroyed long ago.
+
+As I rode up the ramp the delivered me from the tunnel onto the Civic Center platform, two police officers were cleaning up what looked like a shootout between a homeless guy and gang banger. While the homeless guy had three or four bullet holes in him and sat dead and slumped over in his own pool of shit and blood, the gang banger was missing a leg and had two stab wounds in his stomache. Not sure how he lost his leg, but the sight of the two made me vomit in my mouth a little. I decided to run up the stairs instead of wallowing in the smell of death on the slow escalator.
+
+Once above ground, I hop on my bycicle and head down Market street. I get a few hoots and holars from the native inhabitants, but in general it's pretty cold, so people are staring into trash can fires more than looking around.
+
+I hear a gunshot behind me and start pedaling faster to get the fuck out of there.
