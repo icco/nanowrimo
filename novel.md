@@ -65,4 +65,4 @@ As I rode up the ramp the delivered me from the tunnel onto the Civic Center pla
 
 Once above ground, I hop on my bycicle and head down Market street. I get a few hoots and holars from the native inhabitants, but in general it's pretty cold, so people are staring into trash can fires more than looking around.
 
-I hear a gunshot behind me and start pedaling faster to get the fuck out of there.
+I hear a gunshot behind me and start pedaling faster to get the fuck out of there. I peddal towards the bay. According to my phone, which is relaying directions to my ear, I need to go to a building on the corner of Market and Pine. The street numbers on my right get smaller and I pass streets like O'Farrell and Geary.
