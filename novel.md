@@ -87,4 +87,8 @@ The elevator slows down, and comes to a complete stop. The screens fade and begi
 
 Standing in the door is a very lanky and malnourished man in a suit worth more than everything I owned.
 
-He extends his arm for a handshake. "Hello. I'm Mike."
+He extends his arm for a handshake. "Hello. I'm Mike." I shake his hand and stare into his eyes. "I have a package for you Mr. Bruchez." He releases my hand. "Ah yes, do come in."
+
+I think his accent is British, but I am not entirely sure. Something from that part of the world for sure. I remove the thermos from my pack and follow him to a couch, where he sits down. "Please, take a seat." I sit. "Is that it?" I hand him the tube. As he grabs it, and both of our hands are on the theromos turns blue. A green line appears on the blue and makes a wave form as a voice eminates from the tube. "Do you accept the delivery Mike Bruchez?" He smiles. "Yes I do. Thank you. Please tip fifteen percent."
+
+"Thank you for your business." The tube flashes green twice and turns back to brushed aluminum.
