@@ -67,6 +67,18 @@ Once above ground, I hop on my bycicle and head down Market street. I get a few 
 
 I hear a gunshot behind me and start pedaling faster to get the fuck out of there. I peddal towards the bay. According to my phone, which is relaying directions to my ear, I need to go to a building on the corner of Market and Pine. The street numbers on my right get smaller and I pass streets like O'Farrell and Geary. A year or two ago, I probably would be freaking out about now. I thankfully have never been shot, but I have watched a man get ten bullets put into him just for sitting on some old lady's bench. I've seen a twelve year old kid walk into an Apple store with a shotgun and kill twelve people, only to take a single bullet to the dome from an employee who had come into work late, but was carrying a glock.
 
-"Fuck." I pull over my bike over to the side of the street. My eyes close. I turn my head to the right and casually wretch all over an old newpaper stand. Being on the second story of that Apple store, the shotgun shots weren't what bothered me, I think because the buckshot pretty much disfigured the bodies. But the single bullet that I watched turn a small childs head into a crater was not a memory I really wanted to have. I shuddered and washed my mouth out with some water from my backpack.
+"Fuck." I pull over my bike over to the side of the street. My eyes close. I turn my head to the right and casually wretch all over an old newpaper stand. Being on the second story of that Apple store, the shotgun shots weren't what bothered me, I think because the buckshot pretty much disfigured the bodies. But the single bullet that I watched turn a small childs head into a crater was not a memory I really wanted to have. I shuddered and washed my mouth out with some water from my backpack. 
 
+Some lady starts yelling at me for being incosiderate or something.
 
+I get back on the bike and after a little more riding, arrive at the place. The building is huge. I stare upwards towards the sky, and guess that the building is at least two hundred stories or so. I wish I had some of those fancy glasses that provided statistics from the internet about whatever you were looking at.
+
+I walk inside and see that there is a receptionist. Money says that her glasses tell her everything about me. "Good morning Ms. Cornwall." Called it. "How can I help you?"
+
+"Hi there, I have a delivery for a Mike Bruchez."
+
+"Ah alright. He's on the 127th floor. The elevator to the right of the desk will take you to his office."
+
+"Cool, thanks."
+
+"The elevator is button-less, but right after I enter, the doors close and it takes off. While there are no windows, the round elevator has screens that spring to life and display a three hundred and sixty degree view, as if the building wasn't there and I was flying into the sky in Willie Wonka's Glass Elevator.
