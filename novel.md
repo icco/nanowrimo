@@ -101,4 +101,20 @@ He looks down at the tube and starts to twist the top. "Do you know what this is
 
 ## Chapter Three
 
+While I admit, I've never killed anyone before, I have been looking for a new career. Barista obviously only pays for rent, and my money from fashion was good but not great. "Uhmmm. Could you provide a few more details?"
 
+He bursts out laughing. "Oh boy, you should have seen your face. That was priceless." He catches his breath and stops laughing so hard. "We aren't an assasin service, more of a delivery service that tends to run into a little trouble." He pushes the tubes contents to me. "Essentially what you just did was a trial run. Would you get here on time, be polite and not try and open the container." He stands and walks towards the window. "Essentially our delivery service is like game. You get points for delivering early and you get points depending on the troubles you evade. You can trade those points in for cash, buy nicer places to stay that we own, health care, new equipment, or even favors." He looks back to me. "Does this interest you? You'll also get points for just working the coffee shop, so you can take what's on the table and not do anything with it, but I would greatly appreciate it if you start doing more for our company."
+
+I start fiddling with the gun in my hand. It is well built and light. It holds twenty rounds per clip and looks pretty durable. "Sure. Why not? This sounds pretty cool."
+
+"Fantastic! Your second delivery will be even easier than this one. I will have a car waiting downstairs, all you need to do is pick up dinner for the coffee shop and deliver everything in the trunk in under thirty minutes."
+
+"Seems easy enough."
+
+"It is!" He hands me the keys as we walk towards the elevator door. "If you run into trouble, there is a sub-machine gun under the drivers seat."
+
+"What do I do with the car when I am done?"
+
+"Just leave it at the shop, you can use it until it gets stolen or destroyed."
+
+And with that, I stepped into the elevator and fell towards the ground.
