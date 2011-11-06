@@ -81,4 +81,10 @@ I walk inside and see that there is a receptionist. Money says that her glasses 
 
 "Cool, thanks."
 
-"The elevator is button-less, but right after I enter, the doors close and it takes off. While there are no windows, the round elevator has screens that spring to life and display a three hundred and sixty degree view, as if the building wasn't there and I was flying into the sky in Willie Wonka's Glass Elevator.
+The elevator was button-less, but right after I enter, the doors close and it takes off. While there are no windows, the round elevator has screens that spring to life and display a three hundred and sixty degree view, as if the building wasn't there and I was flying into the sky in Willie Wonka's Glass Elevator.
+
+The elevator slows down, and comes to a complete stop. The screens fade and begin displaying wood panels on the walls. The doors slide open. 
+
+Standing in the door is a very lanky and malnourished man in a suit worth more than everything I owned.
+
+He extends his arm for a handshake. "Hello. I'm Mike."
