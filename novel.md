@@ -1,7 +1,7 @@
 # Book Title goes here.
 
-> This is the way the world ends
-> Not with a bang but a whimper
+> This is the way the world ends  
+> Not with a bang but a whimper  
 >   -- T.S. Elliott
 
 ## Chapter One
