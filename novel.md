@@ -118,3 +118,7 @@ I start fiddling with the gun in my hand. It is well built and light. It holds t
 "Just leave it at the shop, you can use it until it gets stolen or destroyed."
 
 And with that, I stepped into the elevator and fell towards the ground.
+
+## Chapter Four
+
+The drive back was pretty simple. People do not really mess with cars. The only real downside was having to drive around the big hills in the center of the city, instead of going through them. Historically, only the wealthy lived up in the hills, but in reality, it was the wealthy and the police officers. The police have blockaded most of the roads going into the hills, but rumor has it, they are building some sort of compound up there.
