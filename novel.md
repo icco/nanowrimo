@@ -122,3 +122,48 @@ And with that, I stepped into the elevator and fell towards the ground.
 ## Chapter Four
 
 The drive back was pretty simple. People do not really mess with cars. The only real downside was having to drive around the big hills in the center of the city, instead of going through them. Historically, only the wealthy lived up in the hills, but in reality, it was the wealthy and the police officers. The police have blockaded most of the roads going into the hills, but rumor has it, they are building some sort of compound up there.
+
+I meandered through the Haight and then through inner-sunset. A few years ago, I would have driven through the park, but you can't do that anymore. A large contingent of university students took over all of Golden Gate Park. They built community housing in various buildings throughout the park, and have been developing blockades. Rumor has it there is a small city in the parking garages under the art museum. Thankfully though, at least according to rumor, they haven't destroyed any art and are taking care of the animals in the science museum.
+
+A turett tracked me as I came down Linoln Way and turned onto 19th Avenue. One guy sitting at the trigger, while I glance at a couple making out up in the tree behind him.
+
+I make it home, drop off my delivery and head upstairs. I turn on some music and lay down on my couch.
+
+
+ > I brought you something close to me,
+ > Left for something you see though your here.
+ > You haunt my dreams
+ > There's nothing to do but believe,
+ > Just believe.
+ > Just breathe.
+
+ > Another day, just believe,
+ > Another day, just breathe
+ > Another day, just believe,
+ > Another day. just breathe.
+
+ > Im used to it by now.
+ > Another day, just believe.
+ > Just breathe. just believe.
+ > Just breathe.
+ > Lying in my bed,
+ > Another day, staring at the ceiling.
+
+ > Just breathe. another day.
+ > Another day, just believe.
+ > Another day.
+ > Im used to it by now.
+ > Im used to it by now.
+ > Just breathe. just believe.
+ > Just breathe. just believe.
+ > Just believe. just breathe.
+ > Just believe.
+ > Another day, just believe.
+ > Another day.
+ > Another day, just believe,
+ > Another day, just breathe,
+ > Another day (I do believe).
+ > Another day(so hard to breathe)
+ > Another day(not so hard to believe)
+ > Another day. another day.
+
