@@ -29,11 +29,13 @@ def count str
   needed = WORDS_PER_DAY * day
   remaining = needed - count
   month_rem = TOTAL_WORDS-count
+  perday = month_rem/(DAYS_IN_NOV-date.day)
 
   puts "#{date.strftime("%B %e, %Y")}:"
   puts "  Count:  #{count.nice}"
-  puts "  Today:  #{remaining.nice} of #{needed.nice} remaining"
-  puts "  Total:  #{month_rem.nice} of #{TOTAL_WORDS.nice} remaining"
+  puts "  Today:  #{remaining.nice} of #{needed.nice} remaining."
+  puts "  Total:  #{month_rem.nice} of #{TOTAL_WORDS.nice} remaining."
+  puts "  WPDN:   #{perday.nice} (words per day needed to finish on time)."
   puts ""
 
   return count
