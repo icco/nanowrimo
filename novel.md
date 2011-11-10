@@ -101,9 +101,9 @@ He looks down at the tube and starts to twist the top. "Do you know what this is
 
 ## Chapter Three
 
-While I admit, I've never killed anyone before, I have been looking for a new career. Barista obviously only pays for rent, and my money from fashion was good but not great. "Uhmmm. Could you provide a few more details?"
+While I admit, I've never killed anyone before, I have been looking for a new career. Being a barista obviously only pays for rent, and my money from fashion was good but not great. "Uhmmm. Could you provide a few more details?"
 
-He bursts out laughing. "Oh boy, you should have seen your face. That was priceless." He catches his breath and stops laughing so hard. "We aren't an assasin service, more of a delivery service that tends to run into a little trouble." He pushes the tubes contents to me. "Essentially what you just did was a trial run. Would you get here on time, be polite and not try and open the container." He stands and walks towards the window. "Essentially our delivery service is like game. You get points for delivering early and you get points depending on the troubles you evade. You can trade those points in for cash, buy nicer places to stay that we own, health care, new equipment, or even favors." He looks back to me. "Does this interest you? You'll also get points for just working the coffee shop, so you can take what's on the table and not do anything with it, but I would greatly appreciate it if you start doing more for our company."
+He bursts out laughing. "Oh boy, you should have seen your face. That was priceless." He catches his breath and stops laughing so hard. "We aren't an assassin service, more of a delivery service that tends to run into a little trouble." He pushes the tubes contents to me. "Essentially what you just did was a trial run. Would you get here on time, be polite and not try and open the container." He stands and walks towards the window. "Essentially our delivery service is like game. You get points for delivering early and you get points depending on the troubles you evade. You can trade those points in for cash, buy nicer places to stay that we own, health care, new equipment, or even favors." He looks back to me. "Does this interest you? You'll also get points for just working the coffee shop, so you can take what's on the table and not do anything with it, but I would greatly appreciate it if you start doing more for our company."
 
 I start fiddling with the gun in my hand. It is well built and light. It holds twenty rounds per clip and looks pretty durable. "Sure. Why not? This sounds pretty cool."
 
@@ -125,48 +125,53 @@ The drive back was pretty simple. People do not really mess with cars. The only 
 
 I meandered through the Haight and then through inner-sunset. A few years ago, I would have driven through the park, but you can't do that anymore. A large contingent of university students took over all of Golden Gate Park. They built community housing in various buildings throughout the park, and have been developing blockades. Rumor has it there is a small city in the parking garages under the art museum. Thankfully though, at least according to rumor, they haven't destroyed any art and are taking care of the animals in the science museum.
 
-A turett tracked me as I came down Linoln Way and turned onto 19th Avenue. One guy sitting at the trigger, while I glance at a couple making out up in the tree behind him.
+A turret tracked me as I came down Lincoln Way and turned onto 19th Avenue. One guy sitting at the trigger, while I glance at a couple making out up in the tree behind him.
 
 I make it home, drop off my delivery and head upstairs. I turn on some music and lay down on my couch.
 
- > I brought you something close to me,
- > Left for something you see though your here.
- > You haunt my dreams
- > There's nothing to do but believe,
- > Just believe.
- > Just breathe.
+ > I brought you something close to me,  
+ > Left for something you see though your here.  
+ > You haunt my dreams  
+ > There's nothing to do but believe,  
+ > Just believe.  
+ > Just breathe.  
 
-My eyes close. French electronic music rolls over me. My theory is that life is better in France, based off of what music says, but every francaphone I've met is a total asshole.
+My eyes close. French electronic music rolls over me. My theory is that life is better in France, based off of what music says, but every francophone I've met is a total asshole.
 
- > Another day, just believe,
- > Another day, just breathe
- > Another day, just believe,
- > Another day. just breathe.
+ > Another day, just believe,  
+ > Another day, just breathe  
+ > Another day, just believe,  
+ > Another day. Just breathe.  
 
 I sigh.
 
- > I'm used to it by now.
- > Another day, just believe.
- > Just breathe. just believe.
- > Just breathe.
- > Lying in my bed,
- > Another day, staring at the ceiling.
+ > I'm used to it by now.  
+ > Another day, just believe.  
+ > Just breathe. Just believe.  
+ > Just breathe.  
+ > Lying in my bed,  
+ > Another day, staring at the ceiling.  
 
- > Just breathe. another day.
- > Another day, just believe.
- > Another day.
- > Im used to it by now.
- > Im used to it by now.
- > Just breathe. just believe.
- > Just breathe. just believe.
- > Just believe. just breathe.
- > Just believe.
- > Another day, just believe.
- > Another day.
- > Another day, just believe,
- > Another day, just breathe,
- > Another day (I do believe).
- > Another day (so hard to breathe)
- > Another day (not so hard to believe)
- > Another day. Another day.
+ > Just breathe. Another day.  
+ > Another day, just believe.  
+ > Another day.  
+ > I'm used to it by now.  
+ > I'm used to it by now.  
+ > Just breathe. just believe.  
+ > Just breathe. just believe.  
+ > Just believe. just breathe.  
+ > Just believe.  
+ > Another day, just believe.  
+ > Another day.  
+ > Another day, just believe,  
+ > Another day, just breathe,  
+ > Another day (I do believe).  
+ > Another day (so hard to breathe)  
+ > Another day (not so hard to believe)  
+ > Another day. Another day.  
 
+Someone knocks on my door. "Who is it?"
+
+"Time for work."
+
+Fuck. Well, this should be interesting. "Alright, one second."
