@@ -157,9 +157,9 @@ I sigh.
  > Another day.  
  > I'm used to it by now.  
  > I'm used to it by now.  
- > Just breathe. just believe.  
- > Just breathe. just believe.  
- > Just believe. just breathe.  
+ > Just breathe. Just believe.  
+ > Just breathe. Just believe.  
+ > Just believe. Just breathe.  
  > Just believe.  
  > Another day, just believe.  
  > Another day.  
@@ -170,8 +170,18 @@ I sigh.
  > Another day (not so hard to believe)  
  > Another day. Another day.  
 
-Someone knocks on my door. "Who is it?"
+As the song finishes, someone knocks on my door. "Who is it?"
 
 "Time for work."
 
-Fuck. Well, this should be interesting. "Alright, one second."
+Fuck. Well, this should be interesting. "Alright, one second." I throw on some comfy shoes and put on some warm clothes. I make sure my pack is fully stocked and hide the cash in the delivery tube in the toilet water reservoir.
+
+I open the door to find another tube chilling on the floor. As soon as I pick it up, it begins to turn yellow. A voice emanates from somewhere inside the metal. "This package needs to be delivered to Christopher Fung outside of the Travis Air Force Base main gate by oh two hundred hours tonight. Because this is a night delivery you will receive one hundred and fifty percent your normal compensation rate. Do you accept delivery responsibility?"
+
+The specificity surprises me, but ... "Yes."
+
+"Mission engaged. Best of luck in your travels Ms. Cornwall." I shove the canister into my pack as the light fades. My phone must have heard the address, because now that the room was silent, it began giving me biking directions. "Correction Siri, I am taking a car." The phone processes briefly. "Will this be the car you arrived in?" I start walking down the stairs. "Yup. Give me the fastest route with no police please."
+
+"Route selected. Please continue down the stairs and out the front door to your vehicle." I jumped the last three stairs. "Alright, mind queueing up some music in the car for me Siri?" There was a hot americano sitting on the counter, steam rising into the dark. I smiled. "Music playlist built for fast driving and heightened adrenaline."
+
+I hopped in the car and pressed the ignition button. Car was full of gas, and the bass started pumping out. As I hit the gas, the volume from the car increased.
