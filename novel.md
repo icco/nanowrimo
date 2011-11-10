@@ -185,3 +185,9 @@ The specificity surprises me, but ... "Yes."
 "Route selected. Please continue down the stairs and out the front door to your vehicle." I jumped the last three stairs. "Alright, mind queueing up some music in the car for me Siri?" There was a hot americano sitting on the counter, steam rising into the dark. I smiled. "Music playlist built for fast driving and heightened adrenaline."
 
 I hopped in the car and pressed the ignition button. Car was full of gas, and the bass started pumping out. As I hit the gas, the volume from the car increased.
+
+The car flew down 280 North. It definitly wasn't meant to go over eighty miles an hour, and here I was pushing it to slightly below one hundred miles per hour. I felt like Will Smith in Men In Black. Totally outside of my safety zone, flying down the road in an old Crown Vic. If only I was not driving, and I had Tommy Lee Jones showing me the ropes.
+
+I merge onto the bay bridge. Rumor has it, the ghost bridge to the right used to actually be the most common way for people to get into the city, but now it just houses people.
+
+Mehalia
