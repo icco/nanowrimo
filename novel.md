@@ -186,8 +186,12 @@ The specificity surprises me, but ... "Yes."
 
 I hopped in the car and pressed the ignition button. Car was full of gas, and the bass started pumping out. As I hit the gas, the volume from the car increased.
 
-The car flew down 280 North. It definitly wasn't meant to go over eighty miles an hour, and here I was pushing it to slightly below one hundred miles per hour. I felt like Will Smith in Men In Black. Totally outside of my safety zone, flying down the road in an old Crown Vic. If only I was not driving, and I had Tommy Lee Jones showing me the ropes.
+The car flew down 280 North. It definitely wasn't meant to go over eighty miles an hour, and here I was pushing it to slightly below one hundred miles per hour. I felt like Will Smith in Men In Black. Totally outside of my safety zone, flying down the road in an old Crown Vic. If only I was not driving, and I had Tommy Lee Jones showing me the ropes.
 
 I merge onto the bay bridge. Rumor has it, the ghost bridge to the right used to actually be the most common way for people to get into the city, but now it just houses people. Instead I rumble across the new twenty lane monstrosity the gets everyone across the bay.
 
-Mehalia
+I have no idea who is getting the bill as I drive through the automatic toll, but the car's dash flashes green as it pays wirelessly. I keep heading north as I get off the bridge. After driving for an hour or so, I get off the freeway. After driving a little ways, I see the left turn to the base is barricaded off, and there is a lone man sitting on top of the barricade. I roll down my window and yell up to him. "Mr. Fung?"
+
+"Yup. Call me Chris. You the delivery girl?" He is wearing an all black track suit, and has some sort of compound bow attached to his back.
+
+"Indeed I am." He hops down and crosses the street. I pull out the tube from my pack, and extend it out the window. "What are you doing out here anyways?" He grabs the tube, and it turns blue. "I accept this delivery, five percent tip." It turns green and I let go. He look towards the base. "Oh, just a little mischief." He starts to walk away, but then turns back. "Want to help us out? It could be a little dangerous, but it should be a lot of fun."
