@@ -188,6 +188,6 @@ I hopped in the car and pressed the ignition button. Car was full of gas, and th
 
 The car flew down 280 North. It definitly wasn't meant to go over eighty miles an hour, and here I was pushing it to slightly below one hundred miles per hour. I felt like Will Smith in Men In Black. Totally outside of my safety zone, flying down the road in an old Crown Vic. If only I was not driving, and I had Tommy Lee Jones showing me the ropes.
 
-I merge onto the bay bridge. Rumor has it, the ghost bridge to the right used to actually be the most common way for people to get into the city, but now it just houses people.
+I merge onto the bay bridge. Rumor has it, the ghost bridge to the right used to actually be the most common way for people to get into the city, but now it just houses people. Instead I rumble across the new twenty lane monstrosity the gets everyone across the bay.
 
 Mehalia
