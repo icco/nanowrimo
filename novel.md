@@ -129,7 +129,6 @@ A turett tracked me as I came down Linoln Way and turned onto 19th Avenue. One g
 
 I make it home, drop off my delivery and head upstairs. I turn on some music and lay down on my couch.
 
-
  > I brought you something close to me,
  > Left for something you see though your here.
  > You haunt my dreams
@@ -137,12 +136,16 @@ I make it home, drop off my delivery and head upstairs. I turn on some music and
  > Just believe.
  > Just breathe.
 
+My eyes close. French electronic music rolls over me. My theory is that life is better in France, based off of what music says, but every francaphone I've met is a total asshole.
+
  > Another day, just believe,
  > Another day, just breathe
  > Another day, just believe,
  > Another day. just breathe.
 
- > Im used to it by now.
+I sigh.
+
+ > I'm used to it by now.
  > Another day, just believe.
  > Just breathe. just believe.
  > Just breathe.
@@ -163,7 +166,7 @@ I make it home, drop off my delivery and head upstairs. I turn on some music and
  > Another day, just believe,
  > Another day, just breathe,
  > Another day (I do believe).
- > Another day(so hard to breathe)
- > Another day(not so hard to believe)
- > Another day. another day.
+ > Another day (so hard to breathe)
+ > Another day (not so hard to believe)
+ > Another day. Another day.
 
