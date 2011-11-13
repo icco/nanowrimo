@@ -194,4 +194,16 @@ I have no idea who is getting the bill as I drive through the automatic toll, bu
 
 "Yup. Call me Chris. You the delivery girl?" He is wearing an all black track suit, and has some sort of compound bow attached to his back.
 
-"Indeed I am." He hops down and crosses the street. I pull out the tube from my pack, and extend it out the window. "What are you doing out here anyways?" He grabs the tube, and it turns blue. "I accept this delivery, five percent tip." It turns green and I let go. He look towards the base. "Oh, just a little mischief." He starts to walk away, but then turns back. "Want to help us out? It could be a little dangerous, but it should be a lot of fun."
+"Indeed I am." He hops down and crosses the street. I pull out the tube from my pack, and extend it out the window. "What are you doing out here anyways?" He grabs the tube, and it turns blue. "I accept this delivery, five percent tip." It turns green and I let go. He look towards the base. "Oh, just a little bit of mischief." He starts to walk away, but then turns back. "Want to help us out? It could be a little dangerous, but it should be a lot of fun."
+
+"Uhm. Alright, sure I guess." I parked the car on the side of the street and hoped out. "So what are we doing?"
+
+"Well, we're going to break onto the base, steal some stuff, and hopefully blow some shit up." He grins kind of creepily. "Follow me."
+
+We wander along the barrier for a while, until we come a small spot where someone had carved foot holds into the wall. Chris climbs up first and I follow. He jumps down quickly from the top. Before I jump, I hear voices and realize there are people down below.
+
+I land with a thud, but it doesn't hurt too much.
+
+As I stand up, I see Chris get handed a rifle, and someone approaches me and hands me a rifle and a string of grenades, and then walks off without a word. To say that I am slightly worried what I have gotten myself into is an understatement.
+
+I store the grenades around my waste and check the rifle. I wish I was slightly better dressed for this, but I am wearing slightly dark clothes, so I guess it is ok.
