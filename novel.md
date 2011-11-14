@@ -230,6 +230,8 @@ Greg eagerly accepted the patch, and submit it to the build system to deploy to 
 
 ## Chapter Seven
 
-I hold a cover position as one of our teammates breaches the fence with some sort of laser cutting device. As soon as the hole has been created, we file through, one be one. Our snipper takes out a guard on one of the watch towers. When the second one walks around to check on the thud the guard's dead body made, he too takes a bullet directly through his scull.
+I hold a cover position as one of our teammates breaches the fence with some sort of laser cutting device. As soon as the hole has been created, we file through, one be one. Our snipper takes out a guard on one of the watch towers. When the second one walks around to check on the thud the guard's dead body made, he too takes a bullet directly through his skull.
 
 I take point as we navigate from parked truck to storage container to random building to more parked vehicles. I gain a nice pair of HUD glasses off the seat of an old Jeep. One of the other members of our infiltration squad finds some C4 in one of the soldiers lockers. All of us gain a few MREs and other random supplies.
+
+As I turn a corner, I find a soldier on smoke break. I implant the butt of my rifle into his skull, and he falls quickly.
