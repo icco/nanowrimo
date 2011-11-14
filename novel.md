@@ -211,3 +211,5 @@ I store the grenades around my waste and check the rifle. I wish I was slightly 
 We form up into groups of five. Chris is leading our group. He shines a flashlight onto the ground, and it is really a map projection. He explains our mission briefly and shows our breach point onto the base, and the hanger that is our final objective. He also points out our three escape points. We all nod, check our weapons and move out.
 
 ## Chapter Five
+
+His mind was a blur. He had been juggling too many projects lately, and he couldn't keep track of them anymore. The solution was no longer coffee. He needed sleep, and he needed it badly. But before he moved across the room to his bed, Sol had one last thing to finish. His fingers flew across the keyboard, this function would be the last he hoped. 
