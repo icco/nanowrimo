@@ -67,7 +67,7 @@ Once above ground, I hop on my bicycle and head down Market street. I get a few 
 
 I hear a gunshot behind me and start pedaling faster to get the fuck out of there. I pedal towards the bay. According to my phone, which is relaying directions to my ear, I need to go to a building on the corner of Market and Pine. The street numbers on my right get smaller and I pass streets like O'Farrell and Geary. A year or two ago, I probably would be freaking out about now. I thankfully have never been shot, but I have watched a man get ten bullets put into him just for sitting on some old lady's bench. I've seen a twelve year old kid walk into an Apple store with a shotgun and kill twelve people, only to take a single bullet to the dome from an employee who had come into work late, but was carrying a Glock.
 
-"Fuck." I pull over my bike over to the side of the street. My eyes close. I turn my head to the right and casually wretch all over an old newspaper stand. Being on the second story of that Apple store, the shotgun shots weren't what bothered me, I think because the buckshot pretty much disfigured the bodies. But the single bullet that I watched turn a small child's head into a crater was not a memory I really wanted to have. I shuddered and washed my mouth out with some water from my backpack. 
+"Fuck." I pull over my bike over to the side of the street. My eyes close. I turn my head to the right and casually wretch all over an old newspaper stand. Being on the second story of that Apple store, the shotgun shots weren't what bothered me, I think because the buckshot pretty much disfigured the bodies. But the single bullet that I watched turn a small child's head into a crater was not a memory I really wanted to have. I shuddered and washed my mouth out with some water from my backpack.
 
 Some lady starts yelling at me for being inconsiderate or something.
 
@@ -83,7 +83,7 @@ I walk inside and see that there is a receptionist. Money says that her glasses 
 
 The elevator was button-less, but right after I enter, the doors close and it takes off. While there are no windows, the round elevator has screens that spring to life and display a three hundred and sixty degree view, as if the building wasn't there and I was flying into the sky in Willie Wonka's Glass Elevator.
 
-The elevator slows down, and comes to a complete stop. The screens fade and begin displaying wood panels on the walls. The doors slide open. 
+The elevator slows down, and comes to a complete stop. The screens fade and begin displaying wood panels on the walls. The doors slide open.
 
 Standing in the door is a very lanky and malnourished man in a suit worth more than everything I owned.
 
@@ -168,7 +168,7 @@ I sigh.
  > Another day (I do believe).  
  > Another day (so hard to breathe)  
  > Another day (not so hard to believe)  
- > Another day. Another day.  
+ > Another day. Another day.
 
 As the song finishes, someone knocks on my door. "Who is it?"
 
@@ -212,7 +212,7 @@ We form up into groups of five. Chris is leading our group. He shines a flashlig
 
 ## Chapter Five
 
-His mind was a blur. He had been juggling too many projects lately, and he couldn't keep track of them anymore. The solution was no longer coffee. He needed sleep, and he needed it badly. But before he moved across the room to his bed, Sol had one last thing to finish. His fingers flew across the keyboard, this function would be the last he hoped. 
+His mind was a blur. He had been juggling too many projects lately, and he couldn't keep track of them anymore. The solution was no longer coffee. He needed sleep, and he needed it badly. But before he moved across the room to his bed, Sol had one last thing to finish. His fingers flew across the keyboard, this function would be the last he hoped.
 
 With a heavy key press, he saved the file and launched his test suite. Green dots flew across the screen. As long as none of the dots appear red, his code will be ready for the world. Probably the coolest part of some of the intellectual property laws passed in the last five years were the ones that required all software to be open source. It meant that Sol could write code to provide alternate reality projections for all HUD glasses wearers, all he had to do was submit a patch to the maintainers.
 
@@ -226,4 +226,10 @@ There are two large feature additions though. The first is a prank Greg quickly 
 
 Greg is stoked, this makes life so much easier he thinks. Now people can create subscribe-able realities! Greg creates a quick Wikipedia based reality. He changes the rules so that every object he points at, the first Wikipedia sentence is read into his ears. Fantastic. The contributor had provided a body replacement channel. He had set it so every horse now had a unicorn horn on it.
 
-Greg eagerly accepted the patch, and submit it to the build system to deploy to all glasses.
+Greg eagerly accepted the patch, and submit it to the build system to deploy to all glasses. In the next hour or two, HUD systems around the world would start updating to the latest version Greg had created.
+
+## Chapter Seven
+
+I hold a cover position as one of our teammates breaches the fence with some sort of laser cutting device. As soon as the hole has been created, we file through, one be one. Our snipper takes out a guard on one of the watch towers. When the second one walks around to check on the thud the guard's dead body made, he too takes a bullet directly through his scull.
+
+I take point as we navigate from parked truck to storage container to random building to more parked vehicles. I gain a nice pair of HUD glasses off the seat of an old Jeep. One of the other members of our infiltration squad finds some C4 in one of the soldiers lockers. All of us gain a few MREs and other random supplies.
