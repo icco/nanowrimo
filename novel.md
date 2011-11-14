@@ -234,4 +234,6 @@ I hold a cover position as one of our teammates breaches the fence with some sor
 
 I take point as we navigate from parked truck to storage container to random building to more parked vehicles. I gain a nice pair of HUD glasses off the seat of an old Jeep. One of the other members of our infiltration squad finds some C4 in one of the soldiers lockers. All of us gain a few MREs and other random supplies.
 
-As I turn a corner, I find a soldier on smoke break. I implant the butt of my rifle into his skull, and he falls quickly. One of the others helps me drag the body and heave it into a dumpster. Two of the other guys scout around to see if our loud noises attracted any attention.
+As I turn a corner, I find a soldier on smoke break. I implant the butt of my rifle into his skull, and he falls quickly. One of the others helps me drag the body and heave it into a dumpster. Two of the other guys scout around to see if our loud noises attracted any attention. 
+
+We take out two more guards in similar fasion, and find ourselves at the side entrance to the hanger. The hanger seems empty as we move through it. I shoot out two security cameras, and the sound of gun shots makes me a little more jumpy. Rifles are really loud.
