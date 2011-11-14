@@ -219,3 +219,7 @@ With a heavy key press, he saved the file and launched his test suite. Green dot
 The last green dot appeared. On the next line, "TESTS: PASSED" appears. Sol punches his right fist into the air as he types out his submission email to the project maintainer with his left. As soon as he sends it off, he stumbles across the room, and collapses onto his bed. A successful night, falling asleep as the sun begins to rise.
 
 ## Chapter Six
+
+Greg wakes up to many pull requests. This long list of people who want to change and fix the product that makes him millions every year. A few of the requests update the manufacturing process, so he leaves those until he has a little more coffee in him. A few others are small bug fixes, which Greg eagerly accepts.
+
+There are two large feature additions though. The first is a prank Greg quickly denies. Some kid thinking it would be hilarious if people randomly saw unicorns in their peripheral vision twenty-four hours a day, seven days a week.
