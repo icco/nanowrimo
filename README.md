@@ -8,4 +8,10 @@ Ideas:
  * 2012 civil war
  * Barista Assasin
  * Nuke in chicago
- 
+
+Characters:
+
+ * Chris Fung
+ * Sol
+ * Mike Bruchez
+ * Ms. Cornwall
