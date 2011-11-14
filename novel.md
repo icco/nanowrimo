@@ -222,4 +222,8 @@ The last green dot appeared. On the next line, "TESTS: PASSED" appears. Sol punc
 
 Greg wakes up to many pull requests. This long list of people who want to change and fix the product that makes him millions every year. A few of the requests update the manufacturing process, so he leaves those until he has a little more coffee in him. A few others are small bug fixes, which Greg eagerly accepts.
 
-There are two large feature additions though. The first is a prank Greg quickly denies. Some kid thinking it would be hilarious if people randomly saw unicorns in their peripheral vision twenty-four hours a day, seven days a week.
+There are two large feature additions though. The first is a prank Greg quickly denies. Some kid thinking it would be hilarious if people randomly saw unicorns in their peripheral vision twenty-four hours a day, seven days a week. But the second one, now this was interesting. A system that allowed for people to define reality layers artificially based on data sources, and let people manipulate their defined realities on a per-pair-of-glasses basis.
+
+Greg is stoked, this makes life so much easier he thinks. Now people can create subscribe-able realities! Greg creates a quick Wikipedia based reality. He changes the rules so that every object he points at, the first Wikipedia sentence is read into his ears. Fantastic. The contributor had provided a body replacement channel. He had set it so every horse now had a unicorn horn on it.
+
+Greg eagerly accepted the patch, and submit it to the build system to deploy to all glasses.
