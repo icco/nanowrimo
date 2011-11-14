@@ -207,3 +207,7 @@ I land with a thud, but it doesn't hurt too much.
 As I stand up, I see Chris get handed a rifle, and someone approaches me and hands me a rifle and a string of grenades, and then walks off without a word. To say that I am slightly worried what I have gotten myself into is an understatement.
 
 I store the grenades around my waste and check the rifle. I wish I was slightly better dressed for this, but I am wearing slightly dark clothes, so I guess it is ok.
+
+We form up into groups of five. Chris is leading our group. He shines a flashlight onto the ground, and it is really a map projection. He explains our mission briefly and shows our breach point onto the base, and the hanger that is our final objective. He also points out our three escape points. We all nod, check our weapons and move out.
+
+## Chapter Five
