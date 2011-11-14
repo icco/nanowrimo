@@ -206,10 +206,16 @@ I land with a thud, but it doesn't hurt too much.
 
 As I stand up, I see Chris get handed a rifle, and someone approaches me and hands me a rifle and a string of grenades, and then walks off without a word. To say that I am slightly worried what I have gotten myself into is an understatement.
 
-I store the grenades around my waste and check the rifle. I wish I was slightly better dressed for this, but I am wearing slightly dark clothes, so I guess it is ok.
+I store the grenades around my waste and check the rifle. I wish I was slightly better dressed for this, but I am wearing slightly dark clothes, so I guess it is OK.
 
 We form up into groups of five. Chris is leading our group. He shines a flashlight onto the ground, and it is really a map projection. He explains our mission briefly and shows our breach point onto the base, and the hanger that is our final objective. He also points out our three escape points. We all nod, check our weapons and move out.
 
 ## Chapter Five
 
 His mind was a blur. He had been juggling too many projects lately, and he couldn't keep track of them anymore. The solution was no longer coffee. He needed sleep, and he needed it badly. But before he moved across the room to his bed, Sol had one last thing to finish. His fingers flew across the keyboard, this function would be the last he hoped. 
+
+With a heavy key press, he saved the file and launched his test suite. Green dots flew across the screen. As long as none of the dots appear red, his code will be ready for the world. Probably the coolest part of some of the intellectual property laws passed in the last five years were the ones that required all software to be open source. It meant that Sol could write code to provide alternate reality projections for all HUD glasses wearers, all he had to do was submit a patch to the maintainers.
+
+The last green dot appeared. On the next line, "TESTS: PASSED" appears. Sol punches his right fist into the air as he types out his submission email to the project maintainer with his left. As soon as he sends it off, he stumbles across the room, and collapses onto his bed. A successful night, falling asleep as the sun begins to rise.
+
+## Chapter Six
