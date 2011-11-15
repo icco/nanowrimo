@@ -236,9 +236,9 @@ I take point as we navigate from parked truck to storage container to random bui
 
 As I turn a corner, I find a soldier on smoke break. I implant the butt of my rifle into his skull, and he falls quickly. One of the others helps me drag the body and heave it into a dumpster. Two of the other guys scout around to see if our loud noises attracted any attention. 
 
-We take out two more guards in similar fasion, and find ourselves at the side entrance to the hanger. The hanger seems empty as we move through it. I shoot out two security cameras, and the sound of gun shots makes me a little more jumpy. Rifles are really loud.
+We take out two more guards in similar fashion, and find ourselves at the side entrance to the hanger. The hanger seems empty as we move through it. I shoot out two security cameras, and the sound of gun shots makes me a little more jumpy. Rifles are really loud.
 
-Chris sticks his right arm up signaling for us to stop. He ponts at me, "come here" he says. I nod and shuffle over. "How often do you get to see inside your deliveries?"
+Chris sticks his right arm up signaling for us to stop. He points at me, "come here" he says. I nod and shuffle over. "How often do you get to see inside your deliveries?"
 
 I lie. "Not too often." 
 
@@ -246,12 +246,19 @@ I lie. "Not too often."
 
 We keep moving until Chris points out a black shipping container with tons of cables going into it. We approach the front entrance, and Chris hands me the keys. "Open the door and take cover behind it, I'll take point."
 
-"Alright." I take the keys from his hand and insert them into the ressesed key slot. As I turn the key, the bars running vertically pull inwards. I look at Chris and he nods. He aims his rifle at the door.
+"Alright." I take the keys from his hand and insert them into the recessed key slot. As I turn the key, the bars running vertically pull inwards. I look at Chris and he nods. He aims his rifle at the door.
 
-I pull the door open, but I can't see what's inside. I see Chris lower his gun and approach the entrance with his hands in a "Whoa there, I'm not going to hurt you" gesture. I peer around the corner and see three teenagers standing in worn out clothes. I put my gun down and come around the corner as well. Chris is kneeling and talking with them quietly. I notice behind them there are three desks with computers on them, and large server racks in the back. I also notice there are beds made out of piles of clothes or something under each of the desks. "I would like to hire you, and take you away from this place. What say you?" The three glance at each other and walk back to their desks. They type a little, almost as if they are having a conversation. The girl and one of the boys seem to be typing the most while the third just types a little. After about a minute, they close their computers, gather a few things into ruck sacks and approach Chris and I. "We will come with you" the girl says. "But if you back out of our arangement, we will kill you."
+I pull the door open, but I can't see what's inside. I see Chris lower his gun and approach the entrance with his hands in a "Whoa there, I'm not going to hurt you" gesture. I peer around the corner and see three teenagers standing in worn out clothes. I put my gun down and come around the corner as well. Chris is kneeling and talking with them quietly. I notice behind them there are three desks with computers on them, and large server racks in the back. I also notice there are beds made out of piles of clothes or something under each of the desks. "I would like to hire you, and take you away from this place. What say you?" The three glance at each other and walk back to their desks. They type a little, almost as if they are having a conversation. The girl and one of the boys seem to be typing the most while the third just types a little. After about a minute, they close their computers, gather a few things into ruck sacks and approach Chris and I. "We will come with you" the girl says. "But if you back out of our arrangement, we will kill you."
 
-"Seems reasonable to me." Chris says. I look at him in curiosly. "Do I even want to know what arrangement?" 
+"Seems reasonable to me." Chris says. I look at him in curiously. "Do I even want to know what arrangement?" 
 
-"Probably not. You take rear, lets get out of here."
+"Probably not. You take the rear, lets get out of here."
 
-We start walking towards the main hanger doors, when somewhere else, a large explostion goes off. The bass shakes me in the chest.
+We start walking towards the main hanger doors, when somewhere else, a large explosion goes off. The bass hits me in the chest like a train hits a suicidal pedestrian.
+
+Chris starts to run.
+
+The five of us reach the hanger doors. They seem to be manually operated, so I shoot the lock off, and we push one of the doors open enough. Chris is the last through the opening, and once he is, he chucks his entire grenade belt back through the door.
+
+More explosions are going off throughout the compound.
+
