@@ -14,4 +14,8 @@ Characters:
  * Chris Fung
  * Sol
  * Mike Bruchez
- * Ms. Cornwall
+ * Ms. Olivia Cornwall
+ * Teenage Trio
+   * Girl: Trinity
+   * Boy 1: Stuart (tall)
+   * Boy 2: Brett (short)
