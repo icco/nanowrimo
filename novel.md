@@ -298,4 +298,16 @@ I chuck my stuff inside onto the passenger seat and drive home. I keep looking i
 
 ## Chapter Eight
 
+Sol awoke to the sunset. "Fuck." He muttered. "I needed a god damn haircut." He shuffled over to his computer. He had a lot of emails. "Ugh." He yawned. "Computer. Order one large pizza with mushrooms, peperoni, bacon, onions and uhm..."
 
+"Uhm is not a valid topping" a synthesized female voice responded from his phone.
+
+"Ah fuck you. Add tomatoes to my order and read it back to me please."
+
+"You would like to order one large pizza with bacon, mushrooms, onions, peperoni and tomatoes. Correct?"
+
+"Ya, order that shit for delivery."
+
+"Ordering."
+
+"Thank you."
