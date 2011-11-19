@@ -13,6 +13,7 @@ Characters:
 
  * Chris Fung
  * Sol
+ * Greg (sn: greg_the_god)
  * Mike Bruchez
  * Ms. Olivia Cornwall
  * Teenage Trio
