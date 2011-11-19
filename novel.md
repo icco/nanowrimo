@@ -316,4 +316,6 @@ Sol awoke to the sunset. "Fuck." He muttered. "I needed a god damn haircut." He 
 
 "Aight." Sol hops into the shower and cleans himself. He dries off and puts on some semi-clean clothes. At least they don't smell. He keeps reading email, and then when completed, he launches his build setup. "Computer, display data about the next ten hours on the window." Sol has floor to ceiling windows for the entire south facing wall. He glances over. "Sol," his phone chimes out, "it is currently five pm on Friday. It is supposed to drop to forty degrees tonight. You asked me to remind you that you wanted to run your data analyzer on the people at bars tonight." 
 
-"No need to run through the news. Thanks computer."
+"No need to run through the news. Thanks computer." Sol starts coding. He has been building a data source for his module that shows data streams coming out of people, and data streams people are consuming. If it works, Sol will be super happy. 
+
+Pizza arrives, Sol consumes and keeps coding. Around midnight, he kicks off his build for the data stream and closes his eyes to grab the latest master build for his HUD. Long ago the HUD switched to only doing updates when you were sleeping. The problem with this is that new builds come out every hour, So you only get the build active when you first go to sleep. Because of that, most developers had learned how to lure their bodies into a pseudo-trance state to convince their HUDs to update whenever they needed.
