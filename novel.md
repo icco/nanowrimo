@@ -262,6 +262,40 @@ The five of us reach the hanger doors. They seem to be manually operated, so I s
 
 More explosions are going off throughout the compound.
 
-My adrenaline is through the roof. "Get in the choper!" I here Chris yell. "What fucking choper?" I hear one of the kids respond. Then, from behind us, from literally out of nowhere, a helicopter flies over head and lands. It is running almost completely silently even when it touches down. I feel the bass and wind from the wing blades, but there is next to no sound coming from them. 
+My adrenaline is through the roof. "Get in the chopper!" I here Chris yell. "What fucking chopper?" I hear one of the kids respond. Then, from behind us, from literally out of nowhere, a helicopter flies over head and lands. It is running almost completely silently even when it touches down. I feel the bass and wind from the wing blades, but there is next to no sound coming from them. 
 
-The side door opens and two of our previous team members starting gesturing for us to come closer. "That fucking choper!" I respond. We all resume running and get through the door.
+The side door opens and two of our previous team members starting gesturing for us to come closer. "That fucking chopper!" I respond. We all resume running and get through the door.
+
+"Well that was interesting. Everyone alright?" I ask once we are all inside.
+
+The shorter boy responds, "Yes, the three of us are fine. Thank you." 
+
+"My name is Olivia. What are your names?"
+
+"Uhm." says the girl as she glances at the other two. "My name is Trinity."
+
+"I am called Stuart." The taller boy stands up and shakes my hand. "I am Brett" the shorter one says from his seat.
+
+"Wow, Olivia, I am hurt. You never told me your name." Chris says leaning up against the door.
+
+"Well you never asked. That is your own damn fault."
+
+"Ha. Very true." Chris says with a smile. A green light flashes above us. Chris slides the door open showing my car on the freeway. "Well Olivia, this is your stop. Thanks for all of the help."
+
+"Oh. Ok. This was interesting." I turn to the trio. "Hey, if you ever need a delivery done, shoot me a message, I extend my contact info to the girl."
+
+"Oh. Thank you Olivia. It was nice meeting you."
+
+"It was nice meeting you as well." I wave goodbye to them. I extend my hand to Chris, "hey, thanks for this. It was an experience. Mind if I keep the munitions?"
+
+"Sure. It was my pleasure. If you ever get tired of your current job or need a little mischief created, hit me up." He hands me a paper business card with one hand and shakes my hand with the other one.
+
+I jump down, salute the pilot and run to the car. I open my door and look back at where the copper was, and it is already flying away as fast as it can.
+
+I chuck my stuff inside onto the passenger seat and drive home. I keep looking in the rear view mirror, but all I see is the glow from the chaos, and no one is following me. 
+
+"Damn this city is strange"
+
+## Chapter Eight
+
+
