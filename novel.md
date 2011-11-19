@@ -319,3 +319,11 @@ Sol awoke to the sunset. "Fuck." He muttered. "I needed a god damn haircut." He 
 "No need to run through the news. Thanks computer." Sol starts coding. He has been building a data source for his module that shows data streams coming out of people, and data streams people are consuming. If it works, Sol will be super happy. 
 
 Pizza arrives, Sol consumes and keeps coding. Around midnight, he kicks off his build for the data stream and closes his eyes to grab the latest master build for his HUD. Long ago the HUD switched to only doing updates when you were sleeping. The problem with this is that new builds come out every hour, So you only get the build active when you first go to sleep. Because of that, most developers had learned how to lure their bodies into a pseudo-trance state to convince their HUDs to update whenever they needed.
+
+His build finishes and begins testing. Sol opens his eyes. His HUD flashes the current build number and then fades into his customized view. "Hud: subscribe to 'Sol's rivers of data' stream". Sol stands up and walks over to his mirror. He sees a few blue streams coming out of him, the data he is emitting, and a ton of white streams coming into him, the data he is consuming. 
+
+A simple bell rings signifying the new version of his river stream is live to its subscribers. "Hud: set action, left thumb to left ring finger tap, toggle river display." His vision quickly fades light green and back signifying conformation. Still looking in the mirror, he taps his thumb to his ring finger. All of a sudden the rivers disappear and a list of streams appears next to his face, sorted by interest to Sol. Sol smiles a huge grin, throws on his jacket and shoes, and walks out the door to try his new tool on the drunken masses of Manhattan.
+
+## Chapter Nine
+
+
