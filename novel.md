@@ -262,3 +262,6 @@ The five of us reach the hanger doors. They seem to be manually operated, so I s
 
 More explosions are going off throughout the compound.
 
+My adrenaline is through the roof. "Get in the choper!" I here Chris yell. "What fucking choper?" I hear one of the kids respond. Then, from behind us, from literally out of nowhere, a helicopter flies over head and lands. It is running almost completely silently even when it touches down. I feel the bass and wind from the wing blades, but there is next to no sound coming from them. 
+
+The side door opens and two of our previous team members starting gesturing for us to come closer. "That fucking choper!" I respond. We all resume running and get through the door.
