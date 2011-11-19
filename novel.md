@@ -310,4 +310,10 @@ Sol awoke to the sunset. "Fuck." He muttered. "I needed a god damn haircut." He 
 
 "Ordering."
 
-"Thank you."
+"Thank you." Sol started reading through his emails. There was a big thread about his patch. Apparently everyone was stoked about the idea, but were somewhat disappointed greg_the_god had gone and deprecated every module that now needed to be rewritten using his new uber-module. Some developers had already released new versions of their modules. Greg must be stoked, it was really shrinking the code base and its dependency graph.
+
+"Pizza will be delivered in forty-five minutes." The voice from his phone echoed out.
+
+"Aight." Sol hops into the shower and cleans himself. He dries off and puts on some semi-clean clothes. At least they don't smell. He keeps reading email, and then when completed, he launches his build setup. "Computer, display data about the next ten hours on the window." Sol has floor to ceiling windows for the entire south facing wall. He glances over. "Sol," his phone chimes out, "it is currently five pm on Friday. It is supposed to drop to forty degrees tonight. You asked me to remind you that you wanted to run your data analyzer on the people at bars tonight." 
+
+"No need to run through the news. Thanks computer."
