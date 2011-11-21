@@ -326,4 +326,24 @@ A simple bell rings signifying the new version of his river stream is live to it
 
 ## Chapter Nine
 
+"So where are we going Mr. Chris?" Trinity asks as she stretches her arms. They had been in the air for at least two hours. She didn't think any of her compatriots trusted Chris that much, but being anywhere outside of that shipping container was a plus. Trinity just wished it wasn't another metal box.
 
+"We're going to LA. Once there we will switch to a plane and fly to NYC."
+
+"Uhmm. So we're banned from New York City. Ever since we crashed their entire electric grid when the governor declared a police state."
+
+"Oh ya, I remember that. I didn't know that was you three."
+
+"We have been the United States' top hackers for the last five years."
+
+"Ha. Good point. Well I've got the three of you knew identities. I had created random fake names, but it seems like you've beat me to that. Should I have your documents changed to reflect the names you gave miss Cornwall?"
+
+"Who?"
+
+"Olivia. Her last name was Cornwall. She does deliveries for a friend of mine."
+
+"She does more than that." Brett chimed in. "She is also a relatively successful indie fashion designer."
+
+"Well, fancy that."
+
+Trinity smiles. Seeing Brett crush on a girl is always hilarious. He's probably already built a stalker tool for her. Oh well, Trinity thinks to herself, we probably will not see her again for awhile.
