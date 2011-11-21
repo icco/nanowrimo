@@ -17,6 +17,6 @@ Characters:
  * Mike Bruchez
  * Ms. Olivia Cornwall
  * Teenage Trio
-   * Girl: Trinity
-   * Boy 1: Stuart (tall)
-   * Boy 2: Brett (short)
+   * Girl: Trinity 16
+   * Boy 1: Stuart (tall) 19
+   * Boy 2: Brett (short) 16
