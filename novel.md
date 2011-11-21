@@ -347,3 +347,5 @@ A simple bell rings signifying the new version of his river stream is live to it
 "Well, fancy that."
 
 Trinity smiles. Seeing Brett crush on a girl is always hilarious. He's probably already built a stalker tool for her. Oh well, Trinity thinks to herself, we probably will not see her again for awhile.
+
+Trinity pulls out her computer and then glances up at Chris. "Sure, I think we can stick with these names for a while. Thanks." Chris pulls out his phone and starts making preparations. Trinity quickly scrolls through her currently running resources, and notices the government hasn't started to kill her servers yet. She ups the security across all of the nodes, and then the pilot signals that they will be landing in five minutes.
