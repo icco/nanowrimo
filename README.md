@@ -1,22 +1,3 @@
-# Nanowrimo 2011
+# NaNoWriMo
 
-Ideas:
-
- * Transitional period for corporations as countries
- * Global warming sinking the coasts
- * Steve's Jobs death as starting a revolution
- * 2012 civil war
- * Barista Assasin
- * Nuke in chicago
-
-Characters:
-
- * Chris Fung
- * Sol
- * Greg (sn: greg_the_god)
- * Mike Bruchez
- * Ms. Olivia Cornwall
- * Teenage Trio
-   * Girl: Trinity 16
-   * Boy 1: Stuart (tall) 19
-   * Boy 2: Brett (short) 16
+Nat's repository for storing his attempts at National Novel Writing Month. He created this repo when he realised he had lost all of his previous attempts.
