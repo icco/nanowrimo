@@ -24,9 +24,16 @@ class Integer
   end
 end
 
+# Allow us to check if a string is alphanumeric.
+class String
+  def has_alpha?
+    !!self.match(/\w+/)
+  end
+end
+
 def count str
   date = Time.now
-  count = str.split(/\S+/).size
+  count = str.split(/\S+/).delete_if {|i| !i.has_alpha? }.size
   day = date.day
   needed = WORDS_PER_DAY * day
   remaining = needed - count
