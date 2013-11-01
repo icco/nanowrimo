@@ -1,5 +1,9 @@
 # Karl
 
+Neo San Francisco, 2050
+
+## Chapter 1
+
 A young man stood on the beach. He slowly breathed, his breath visible in the cold as if he was smoking a cigar. The fog was everywhere, it apparently used to burn off, but now it just hung there.
 
 The fog has tinted red as the sun slowly set. The man just sat there in silence. No one walked by, and few sounds reached his ears except for the waves pulsating on the beach. A muffled series of clicks happened behind the man. He turned to see the street lamps slowly lit by their owners as the light from the sky faded, and then continued to watch the dark waves roll in.
@@ -12,7 +16,7 @@ The young man approached the bar and grabbed a stool. He rotated on and stared a
 
 "Michelangelo? Could I have a pint of the right beer?"
 
-Michelangelo, a middle aged man with a light brown short beard and a heavily tattooed left-arm peeked his head out from the open doorway behind the bar, "Hey-ah Bridge! Lemme just finish tweaking this and I'll be with you in a sec."
+Michelangelo, a middle aged man with a light brown short beard and a heavily tattooed left-arm peeked his head out from the open doorway behind the bar, "Hey-ah Bridge! Let me just finish tweaking this and I'll be with you in a sec."
 
 Bridge smiled. "Break the security perimeter again?"
 
@@ -22,4 +26,4 @@ Bridge chuckled and drew a square in the air in front of him. As he did, a littl
 
 Michelangelo walked over with a freshly poured beer, sat it down on a coaster, and gave Bridge a smile, "What's new in the land of fog?"
 
-"Not much."
+"Not much." Bridge took a sip of his beer.
