@@ -33,9 +33,7 @@ end
 
 def count str
   date = Time.now
-  words = str.split(/\s+/).delete_if {|i| !i.has_alpha? }
-  p words
-  count = words.size
+  count = str.split(/\s+/).delete_if {|i| !i.has_alpha? }.size
   day = date.day
   needed = WORDS_PER_DAY * day
   remaining = needed - count
