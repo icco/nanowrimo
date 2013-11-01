@@ -6,4 +6,10 @@ The fog has tinted red as the sun slowly set. The man just sat there in silence.
 
 As the tide slowly receded, he started walking back up the street behind him. Ten cold and wet blocks later, he walked through a door under a blue tinted lamp.
 
-Inside was a bar. A few wooden tables were scattered across the room. One was occupied with a young woman reading; Another was taken by a couple talking quietly and sipping beer. At the bar, one of the four stools was occupied by a man reading through the news and drinking a tumbler full of some dark alchol.
+Inside was a bar. A few wooden tables were scattered across the room. One was occupied with a young woman reading; Another was taken by a couple talking quietly and sipping beer. At the bar, one of the four stools was occupied by a man reading through the news and drinking a tumbler full of some dark alcohol.
+
+The young man approached the bar and grabbed a stool. He rotated on and stared at the two unmarked taps. Then he quietly cleared his throat.
+
+"Michelangelo? Could I have a pint of the right beer?"
+
+Michelangelo, a middle aged man with a light brown short beard and a heavily tattooed left-arm peeked his head out from the open doorway behind the bar, "Heya Bridge! Lemme just finish tweaking this and I'll be with you in a sec."
