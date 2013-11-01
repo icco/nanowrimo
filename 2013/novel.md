@@ -18,4 +18,8 @@ Bridge smiled. "Break the security perimeter again?"
 
 "No comment! I think I got the parameters right this time though." Michelangelo yelled as a loud thunk came from the back room.
 
-Bridge chuckled and drew a square in the air in front of him. As he did, a little wisp of smoke poured from his coat sleeve and filed the imaginary square. The smoke stopped pouring and began to thicken. Then it solidified and small blue words started to appear on the thin slab of smoke.
+Bridge chuckled and drew a square in the air in front of him. As he did, a little wisp of smoke poured from his coat sleeve and filed the imaginary square. The smoke stopped pouring and began to thicken. Then it solidified and small blue words started to appear on the thin slab of smoke. Bridge slid his finger over a few words, getting more details as he read the news.
+
+Michelangelo walked over with a freshly poured beer, sat it down on a coaster, and gave Bridge a smile, "What's new in the land of fog?"
+
+"Not much."
