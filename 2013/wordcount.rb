@@ -1,5 +1,7 @@
 #! /usr/bin/env ruby
+#
 # This little script parses stdin or a file name and counts the words and your progress towards NanoWriMo.
+#
 # Author: Nat Welch (@icco)
 
 TOTAL_WORDS = 50000
@@ -32,7 +34,8 @@ def count str
   perdayn = month_rem/(DAYS_IN_NOV-day)
   perday = count/day
 
-  puts "#{date.strftime("%B %e, %Y")}:"
+  puts "#{date.strftime("%B %e, %Y")}: #{count.nice} / #{TOTAL_WORDS.nice}"
+  puts ""
   puts "  Count:  #{count.nice}"
   puts "  Today:  #{remaining.nice} of #{needed.nice} remaining."
   puts "  Total:  #{month_rem.nice} of #{TOTAL_WORDS.nice} remaining."
