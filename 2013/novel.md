@@ -12,4 +12,10 @@ The young man approached the bar and grabbed a stool. He rotated on and stared a
 
 "Michelangelo? Could I have a pint of the right beer?"
 
-Michelangelo, a middle aged man with a light brown short beard and a heavily tattooed left-arm peeked his head out from the open doorway behind the bar, "Heya Bridge! Lemme just finish tweaking this and I'll be with you in a sec."
+Michelangelo, a middle aged man with a light brown short beard and a heavily tattooed left-arm peeked his head out from the open doorway behind the bar, "Hey-ah Bridge! Lemme just finish tweaking this and I'll be with you in a sec."
+
+Bridge smiled. "Break the security perimeter again?"
+
+"No comment! I think I got the parameters right this time though." Michelangelo yelled as a loud thunk came from the back room.
+
+Bridge chuckled and drew a square in the air in front of him. As he did, a little wisp of smoke poured from his coat sleeve and filed the imaginary square. The smoke stopped pouring and began to thicken. Then it solidified and small blue words started to appear on the thin slab of smoke.
