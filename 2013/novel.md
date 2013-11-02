@@ -2,6 +2,10 @@
 
 Neo San Francisco, 2050
 
+ > "Under the thinning fog the surf curled and creamed, almost without sound, like a thought trying to form inself on the edge of consciousness." -- Raymond Chandler, The Big Sleep 
+
+> "I want to eat all the neighborhoods." -- https://twitter.com/KarlTheFog/status/392804950264143872
+
 ## Chapter 1
 
 A young man stood on the beach. He slowly breathed, his breath visible in the cold as if he was smoking a cigar. The fog was everywhere, it apparently used to burn off, but now it just hung there.
@@ -49,3 +53,21 @@ Michelangelo stuck his thumb up into the air and went back to work as Bridge wal
 ## Chapter 2
 
 The stairway was lit with artificial LED light, although thankfully not blindingly bright like how many up in the Stacks liked.
+
+Bridge climbed the three sets of stairs at a slow pace. His trips up were becoming longer and longer. How soon would it be that he went an entire year before visiting the surface of the planet that had been home to the human race for so long?
+
+At the top of the stairs, Bridge opened a door onto the roof of Michelangelo's Hotel and Bar. The fog had long since destroyed the sign on the door that gave the place a name, but a small flame behind blue glass still flickered, marking this place as a tavern for all weary fog travelers.
+
+A metal post with a wooden box stood alone on the roof. Bridge approached and opened it. The sound of a vacuum decompressing echoed through the silent night as a small iron cover opened up revealing a bright green button. Bridge quickly pressed the button and shut the door. As soon as the door closed, compressed air shot out the bottom of the box as it created a vacuum inside, trying to protect the rare piece of new technology that still worked on the surface.
+
+Somewhere, up above the fog, a cargo door opened. Men watched as  a large sideways dropped through the door and then started a propeller on its roof, slowly moving through the night sky towards the fields of grey below.
+
+## Chapter 3
+
+After about thirty minutes, Bridge heard the whirring noise of spinning blades cutting through the thick fog and the flash of a diffused green light as the egg sat down next to the post.
+
+A door slid open and inside the egg there were three empty benches facing away from the point of the egg. Bridge climbed in and took the middle seat. After a few minutes, the door closed and begun to slowly climb diagonally upwards through the fog. 
+
+After another few minutes, a transparent band appeared around the egg, and Bridge could look down. He saw nothing but grey.
+
+About ten minutes later, the egg emerged into the dark and left the fog behind.
