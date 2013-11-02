@@ -26,4 +26,4 @@ Bridge chuckled and drew a square in the air in front of him. As he did, a littl
 
 Michelangelo walked over with a freshly poured beer, sat it down on a coaster, and gave Bridge a smile, "What's new in the land of fog?"
 
-"Not much." Bridge took a sip of his beer.
+"Not much." Bridge took a sip of his beer. 
