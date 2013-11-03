@@ -71,3 +71,7 @@ A door slid open and inside the egg there were three empty benches facing away f
 After another few minutes, a transparent band appeared around the egg, and Bridge could look down. He saw nothing but grey.
 
 About ten minutes later, the egg emerged into the dark and left the fog behind.
+
+## Chapter 4
+
+The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating city pods.
