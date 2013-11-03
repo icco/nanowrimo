@@ -119,3 +119,11 @@ Bridge climed in the pod and touched his hand to the wall of the pod. An etherea
 "Sure."
 
 His pod flew down the shoot he was in into the tunnels of the city. Quickly, yet gently, turning at every junction making way to his appartment.
+
+Minutes later, Bridge exited his pod at the front door of his apartment. The door slid open as he approached, and the lights faded on. He walked to the opposite side of his appartment and looked out. His place was near the edge of the city so he could see into the distance. He saw other floating cities and their flashing beacons of light, and he saw the sea of fog, going forever in every direction.
+
+He dropped his coat and the rest of his clothes on the ground as he stumbled towards his bed. He collapsed on his bed, waiting for the night and dreams to finally come and take him away from this broken world.
+
+## Chapter 5
+
+Bridge awoke to the smell of coffee and waffles.
