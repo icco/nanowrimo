@@ -126,4 +126,13 @@ He dropped his coat and the rest of his clothes on the ground as he stumbled tow
 
 ## Chapter 5
 
-Bridge awoke to the smell of coffee and waffles.
+Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots had picked up his mess.
+
+* Meet with someone, accept expedition into fog with two others
+* fog is getting closer to cities
+* explore city, find two companions
+* Travel into fog
+* find 
+* discover original nano-machine source
+* descover you can talk to fog
+* help control fog and save cities
