@@ -107,3 +107,6 @@ The metal slab beeped out; signaling it agreed.
 "You as well."
 
 One of the guards slung his gun over his back and led Bridge down a tunnel, across a few bridges and through a door, where a five foot wide troff lay in the ground.
+
+The guard drew a little pattern on a yellow square that was inlaid on the wall. A few seconds later a two person pod slid into the tube. "Have a good night sir," said the guard as he walked out the door they had come in.
+
