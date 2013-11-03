@@ -74,4 +74,6 @@ About ten minutes later, the egg emerged into the dark and left the fog behind.
 
 ## Chapter 4
 
-The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating city pods.
+The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating citys. The bottom of the city he was heading for was dark grey. Lights from engineers working on the belly of the flying beast that is Neo San Francisco created a a brighter set of stars which Bridge's egg was flying towards.
+
+He saw in the distance a green light, that must be where he was heading.
