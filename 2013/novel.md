@@ -114,6 +114,8 @@ Bridge climed in the pod and touched his hand to the wall of the pod. An etherea
 
 "Home please."
 
-"Certainly Bridge. Shall I notify your house you are enroute?"
+"Certainly Bridge. Shall I notify your house that you are enroute?"
 
 "Sure."
+
+His pod flew down the shoot he was in into the tunnels of the city. Quickly, yet gently, turning at every junction making way to his appartment.
