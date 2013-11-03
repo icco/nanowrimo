@@ -110,3 +110,10 @@ One of the guards slung his gun over his back and led Bridge down a tunnel, acro
 
 The guard drew a little pattern on a yellow square that was inlaid on the wall. A few seconds later a two person pod slid into the tube. "Have a good night sir," said the guard as he walked out the door they had come in.
 
+Bridge climed in the pod and touched his hand to the wall of the pod. An ethereal voice quietly spoke in the pod. "Good evening Bridge. Where would you like to go?"
+
+"Home please."
+
+"Certainly Bridge. Shall I notify your house you are enroute?"
+
+"Sure."
