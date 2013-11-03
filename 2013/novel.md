@@ -76,4 +76,34 @@ About ten minutes later, the egg emerged into the dark and left the fog behind.
 
 The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating citys. The bottom of the city he was heading for was dark grey. Lights from engineers working on the belly of the flying beast that is Neo San Francisco created a a brighter set of stars which Bridge's egg was flying towards.
 
-He saw in the distance a green light, that must be where he was heading.
+He saw in the distance a green light, and his egg was flying towards it.
+
+As the egg got closer to the surface of the underbelly of the city, Bridge saw an open set of doors with two poles descending from the opening.
+
+His egg flew in between the two poles and turned off its propeller. A lound sound echoed out as the two poles grabbed the egg and started moving upwards.
+
+The egg stopped moving, and the door slid open. Outside the door a clean white light shown and the buzzing of the engineering and shipping level of the city rang out.
+
+Bridge tried to cover his eyes and ears as his senses were attacked.
+
+As his eyes adjusted, he noticed he was faced with a woman in a uniform carrying a sheet of metal, who was flanked on both sides by soldiers with guns.
+
+"Good evening sir. Identification please."
+
+Bridge reached into his front pocket and pulled out his tattered passport. He handed it slowly to the woman, all the while appreciating how well the uniform fit her. She took the passport while staring into his eyes with absolutly no emotion.
+
+She put the passport on her slab of metal, which then came to life. "Your name sir?"
+
+"Bridge McCarthy."
+
+The metal slab beeped out; signaling it agreed.
+
+"Welcome back Mr. McCarthy. It seems you were gone for twenty-six days. Did you have a safe trip?"
+
+"Yes, I did, thank you. Could you direct me to the nearest transportation tube, I need to get home."
+
+"Of course sir. Chris, please escort Mr. McCarthy to tube C1-89. Have a wonderful night sir."
+
+"You as well."
+
+One of the guards slung his gun over his back and led Bridge down a tunnel, across a few bridges and through a door, where a five foot wide troff lay in the ground.
