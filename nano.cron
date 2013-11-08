@@ -1,2 +1,2 @@
 SHELL=/bin/bash
-0 * * 11 * MAILTO=`git config --get user.email`; cd ~/Projects/nanowrimo/`date +%Y` && make; git push
+0 * * 11 * cd ~/Projects/nanowrimo/2013 && make; git push
