@@ -134,5 +134,5 @@ Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots h
 * Travel into fog
 * find 
 * discover original nano-machine source
-* descover you can talk to fog
+* discover you can talk to fog
 * help control fog and save cities
