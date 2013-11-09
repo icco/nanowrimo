@@ -6,7 +6,8 @@ commit: html
 	@git log -1
 
 html:
-	./html.rb novel.md > novel.html
+	@./html.rb novel.md > novel.html
+	@git add novel.html
 
 clean:
-	rm -v *pdf
+	@rm -v *pdf *html
