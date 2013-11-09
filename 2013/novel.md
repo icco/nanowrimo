@@ -63,6 +63,7 @@ A metal post with a wooden box stood alone on the roof. Bridge approached and op
 Somewhere, up above the fog, a cargo door opened. Men watched as  a large sideways dropped through the door and then started a propeller on its roof, slowly moving through the night sky towards the fields of grey below.
 
 ## Chapter 3
+> "I heard an airplane passing overhead. I wished I was on it." -- Charles Bukowski
 
 After about thirty minutes, Bridge heard the whirring noise of spinning blades cutting through the thick fog and the flash of a diffused green light as the egg sat down next to the post.
 
@@ -73,6 +74,8 @@ After another few minutes, a transparent band appeared around the egg, and Bridg
 About ten minutes later, the egg emerged into the dark and left the fog behind.
 
 ## Chapter 4
+
+> "Coming back to where you started is not the same as never leaving." -- Terry Pratchett, A Hat Full of Sky
 
 The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating cities. The bottom of the city he was heading for was dark grey. Lights from engineers working on the belly of the flying beast that is Neo San Francisco created a a brighter set of stars which Bridge's egg was flying towards.
 
@@ -125,6 +128,8 @@ Minutes later, Bridge exited his pod at the front door of his apartment. The doo
 He dropped his coat and the rest of his clothes on the ground as he stumbled towards his bed. He collapsed on his bed, waiting for the night and dreams to finally come and take him away from this broken world.
 
 ## Chapter 5
+
+> "Morning is wonderful. Its only drawback is that it comes at such an inconvenient time of day." -- Glen Cook, Sweet Silver Blues
 
 Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots had picked up his mess. 
 
