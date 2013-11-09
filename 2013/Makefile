@@ -2,7 +2,7 @@ all: commit
 
 commit: html
 	@git add novel.md
-	@git commit novel.md -m "`./wordcount.rb novel.md`"
+	@git commit novel.* -m "`./wordcount.rb novel.md`"
 	@git log -1
 
 html:
