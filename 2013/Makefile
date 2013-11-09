@@ -10,4 +10,4 @@ html:
 	@git add novel.html
 
 clean:
-	@rm -v *pdf *html
+	@rm -fv *pdf *html
