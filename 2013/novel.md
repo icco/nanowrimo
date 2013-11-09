@@ -2,11 +2,9 @@
 
 Neo San Francisco, 2050
 
- > "Under the thinning fog the surf curled and creamed, almost without sound, like a thought trying to form inself on the edge of consciousness." -- Raymond Chandler, The Big Sleep 
-
-> "I want to eat all the neighborhoods." -- https://twitter.com/KarlTheFog/status/392804950264143872
-
 ## Chapter 1
+
+> "Under the thinning fog the surf curled and creamed, almost without sound, like a thought trying to form inself on the edge of consciousness." -- Raymond Chandler, The Big Sleep 
 
 A young man stood on the beach. He slowly breathed, his breath visible in the cold as if he was smoking a cigar. The fog was everywhere, it apparently used to burn off, but now it just hung there.
 
@@ -52,6 +50,8 @@ Michelangelo stuck his thumb up into the air and went back to work as Bridge wal
 
 ## Chapter 2
 
+> "I want to eat all the neighborhoods." -- https://twitter.com/KarlTheFog/status/392804950264143872
+
 The stairway was lit with artificial LED light, although thankfully not blindingly bright like how many up in the Stacks liked.
 
 Bridge climbed the three sets of stairs at a slow pace. His trips up were becoming longer and longer. How soon would it be that he went an entire year before visiting the surface of the planet that had been home to the human race for so long?
@@ -74,13 +74,13 @@ About ten minutes later, the egg emerged into the dark and left the fog behind.
 
 ## Chapter 4
 
-The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating citys. The bottom of the city he was heading for was dark grey. Lights from engineers working on the belly of the flying beast that is Neo San Francisco created a a brighter set of stars which Bridge's egg was flying towards.
+The stars twinkled dimly in the sky. Their brilliance subdued by the bright white lights of the floating cities. The bottom of the city he was heading for was dark grey. Lights from engineers working on the belly of the flying beast that is Neo San Francisco created a a brighter set of stars which Bridge's egg was flying towards.
 
 He saw in the distance a green light, and his egg was flying towards it.
 
 As the egg got closer to the surface of the underbelly of the city, Bridge saw an open set of doors with two poles descending from the opening.
 
-His egg flew in between the two poles and turned off its propeller. A lound sound echoed out as the two poles grabbed the egg and started moving upwards.
+His egg flew in between the two poles and turned off its propeller. A loud sound echoed out as the two poles grabbed the egg and started moving upwards.
 
 The egg stopped moving, and the door slid open. Outside the door a clean white light shown and the buzzing of the engineering and shipping level of the city rang out.
 
@@ -90,7 +90,7 @@ As his eyes adjusted, he noticed he was faced with a woman in a uniform carrying
 
 "Good evening sir. Identification please."
 
-Bridge reached into his front pocket and pulled out his tattered passport. He handed it slowly to the woman, all the while appreciating how well the uniform fit her. She took the passport while staring into his eyes with absolutly no emotion.
+Bridge reached into his front pocket and pulled out his tattered passport. He handed it slowly to the woman, all the while appreciating how well the uniform fit her. She took the passport while staring into his eyes with absolutely no emotion.
 
 She put the passport on her slab of metal, which then came to life. "Your name sir?"
 
@@ -110,23 +110,23 @@ One of the guards slung his gun over his back and led Bridge down a tunnel, acro
 
 The guard drew a little pattern on a yellow square that was inlaid on the wall. A few seconds later a two person pod slid into the tube. "Have a good night sir," said the guard as he walked out the door they had come in.
 
-Bridge climed in the pod and touched his hand to the wall of the pod. An ethereal voice quietly spoke in the pod. "Good evening Bridge. Where would you like to go?"
+Bridge climbed in the pod and touched his hand to the wall of the pod. An ethereal voice quietly spoke in the pod. "Good evening Bridge. Where would you like to go?"
 
 "Home please."
 
-"Certainly Bridge. Shall I notify your house that you are enroute?"
+"Certainly Bridge. Shall I notify your house that you are en-route?"
 
 "Sure."
 
-His pod flew down the shoot he was in into the tunnels of the city. Quickly, yet gently, turning at every junction making way to his appartment.
+His pod flew down the shoot he was in into the tunnels of the city. Quickly, yet gently, turning at every junction making way to his apartment.
 
-Minutes later, Bridge exited his pod at the front door of his apartment. The door slid open as he approached, and the lights faded on. He walked to the opposite side of his appartment and looked out. His place was near the edge of the city so he could see into the distance. He saw other floating cities and their flashing beacons of light, and he saw the sea of fog, going forever in every direction.
+Minutes later, Bridge exited his pod at the front door of his apartment. The door slid open as he approached, and the lights faded on. He walked to the opposite side of his apartment and looked out. His place was near the edge of the city so he could see into the distance. He saw other floating cities and their flashing beacons of light, and he saw the sea of fog, going forever in every direction.
 
 He dropped his coat and the rest of his clothes on the ground as he stumbled towards his bed. He collapsed on his bed, waiting for the night and dreams to finally come and take him away from this broken world.
 
 ## Chapter 5
 
-Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots had picked up his mess.
+Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots had picked up his mess. 
 
 * Meet with someone, accept expedition into fog with two others
 * fog is getting closer to cities
