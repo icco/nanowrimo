@@ -141,7 +141,27 @@ Bridge had a nice apartment on the western edge of the city. His job as a survey
 
 He cleaned up and got dressed. He had a feeling this meeting would get him a good gig, so he grabbed his bag of gear. A small  bag contained goggles, a few tools, some dehydrated rations and two emergency signals. The bag connected to a thick coil of sturdy carbon fiber rope. Everything seemed in good repair.
 
+Bridge sighed and walked out the door. The music stopped, the lights went out, and a few robots scurried about, cleaning up any proof that someone lived there.
 
+## Chapter 6
+
+> "I love mankind ... it's people I can't stand!!" -- Charles M. Schulz
+
+Close to the center of the Stacks, about two thirds up the towers, Bridge found the office of Chuck. Bridge had never worked with Chuck before, but a friend had referred Bridge for a job, and few people did work outside of the Stacks anymore.
+
+Bridge entered Chuck's office and found himself in a room with no walls. A sense of vertigo rushed over him, but he reached out and found his arm hitting a wall. He closed his eyes, whispered "clarity", and opened his eyes. A room had reappeared. Nanobots swirled over his eyes, showing what was really in the room instead of the illusion that was being projected. 
+
+Across the room he saw an older man sitting smugly behind a desk in a t-shirt with his arms crossed, and a well manicured man in slacks and a collared shirt sitting on the corner of the desk.
+
+"I'm here for an appointment with Chuck."
+
+The man at the desk shooed the well groomed man away, "I've got it from here Mitch, thanks though." The other man sighed and fizzled away. Some sort of illusion Bridge couldn't hack away? "Welcome! You must be Bridge." The man smiled and stood up. He walked through the desk towards Bridge. "That was impressive how you broke through my fog. Not too many people can do that any more."
+
+"Yeah, well, working with fog is my business."
+
+"That is the true true. Well, Samantha says you're good, and I need a surveyor to find me some old technology. You interested?"
+
+"I could be convinced. I just finished my last job. What specifically are you looking for?"
 
 * Meet with someone, accept expedition into fog with two others
 * fog is getting closer to cities
