@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 
-require "bundler"
-Bundler.require
+require 'nokogiri'
+require 'redcarpet'
 
 options = {
   :autolink => true,
