@@ -165,11 +165,18 @@ The man at the desk shooed the well groomed man away, "I've got it from here Mit
 
 "I could be convinced. I just finished my last job. What specifically are you looking for?"
 
+"I've recently come across the map for an old nano-lab that I think might have done some early work that led to what the fog is today. I want you to lead two of my scientists there, help them search the place and bring back anything of interest that you or they find."
+
+"How far away is it?"
+
+"I have no idea. If you take the job, I'll give you the map and two months to find it."
+
+The two haggled for a few minutes, settled on the price, and Bridge took the job.
+
 * Meet with someone, accept expedition into fog with two others
 * fog is getting closer to cities
 * explore city, find two companions
 * Travel into fog
-* find 
 * discover original nano-machine source
 * discover you can talk to fog
 * help control fog and save cities
