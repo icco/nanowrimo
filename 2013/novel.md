@@ -133,6 +133,16 @@ He dropped his coat and the rest of his clothes on the ground as he stumbled tow
 
 Bridge awoke to the smell of coffee and waffles. While he was sleeping, robots had picked up his mess. He rolled out of bed and pulled up a bar stool. He plopped his butt down on the chair, grabbed a waffle and drew a square in the air. As he was slowly chewing his soft fluffy bread, a smoke sweat out of the three banded tattoos on his left arm and filled the square.
 
+Not too much interesting had happened in the Stacks over the last two weeks. He made a motion of turning a knob and music came on in the room. He waved the smoke away and sipped his coffee.
+
+The Stacks; Neo San Francisco. Home to five million wayward souls. A floating city above the fog. From a distance, it looks like a poorly made layer cake, or a pile of books about to topple over.
+
+Bridge had a nice apartment on the western edge of the city. His job as a surveyor got him a place with a gorgeous view, albeit far away from the heart of the city. Few came to visit him, but that suited him just fine. He tried to be at home as little as possible.
+
+He cleaned up and got dressed. He had a feeling this meeting would get him a good gig, so he grabbed his bag of gear. A small  bag contained goggles, a few tools, some dehydrated rations and two emergency signals. The bag connected to a thick coil of sturdy carbon fiber rope. Everything seemed in good repair.
+
+
+
 * Meet with someone, accept expedition into fog with two others
 * fog is getting closer to cities
 * explore city, find two companions
