@@ -34,4 +34,16 @@ He takes a hot shower. Standing in the steam he dons a green bathrobe. He goes t
 
 As he flips through the channels, he sees something out of the corner of his eye. A brief flash of light when he changes channels. Curious, Tim stares at the light and begins to try and change the channels faster.
 
-A shape becomes apparent. A young woman.
+A shape becomes apparent. A young woman. Standing in jeans and a jumper. Hair tied back in a ponytail, staring through the window towards the clouds. She flickers, an apaprition, an after-image of reflected into reality.
+
+Tim stops drops the remote in confusion. She keeps flickering, but turns towards him and smiles. Tim stammers, "Hello?"
+
+The aparation's mouth moves, but sound eminates from the TV, "Michael, is that you?"
+
+"Uh no, my name is Tim. Who? What? Are you?"
+
+The light of the TV changing channels on its own surprises Tim, almost as if it's search for a channel to say the right thing at the right time. A late night showing of "Home Improvment" flies by "Tim!" a woman yells from the screen. It seems like each channel produces one word as they TV changes quickly. "I", her mouth moving faster than the TV can change. "Am lost. My name is Michelle, and an explosion happened, and now I think I'm stuck in the internet? Or maybe the electrical wires." She seems sad. "You're the first to notice me though! Find Michael!"
+
+"Where is he? Who is he?"
+
+"He's in San Francisco, I think..." she flickers out of existance, cut off from finishing her sentence.
