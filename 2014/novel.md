@@ -1,5 +1,7 @@
 # Another Time
 
+## Chapter 1
+
 Autumn has some of the worst clouds. They sit in the sky pretending to be winter clouds, overcast, but light. Unsure of themselves as they decide how the transition between Summer and Winter will appear.
 
 Tim sits drinking reheated coffee. His thoughts of clouds distract him from the horrible coffee in his cup. He could, for instance, go make a fresh pot if his mind came back to earth, concerned about such worldly problems. But instead he continues to stare at the grey sheet of water vapor hanging high in the sky, ushering the city from the freedom of Summer into the wet darkness of Winter.
@@ -47,3 +49,15 @@ The light of the TV changing channels on its own surprises Tim, almost as if it'
 "Where is he? Who is he?"
 
 "He's in San Francisco, I think..." she flickers out of existance, cut off from finishing her sentence.
+
+## Chapter 2
+
+It took decades, but San Francisco was no longer the city it was. It was a husk, burnt out buildings, surounded by broken sidewalks. Graffiti signifying old companies to have come and gone. Dead bodies on the stoops of buildings, faded away from one too many chemical get-a-ways.
+
+Old San Franciscan Victorians burned to the ground. Large portions of downtown were underwater. Luxury high rises now occupied by schools of fish. The sunset had slid down its long hill into the ocean.
+
+Across the bay, Oakland was a metropolis of towering warehouses. Buildings over a hundred stories tall held entire communities, with different floors connecting the city with private bridges between buildings.
+
+Cristine stands by the window sipping a glass of white wine. Her slinky black dress and high heels offset by the rifle and sword slung across her back. She peered out examing the broken bridge and the sliver of fog that was once the great city by the bay. A bright light blue and then orange light flashes, coloring the fog. Causing it to glow internally briefly.
+
+She glances back at the party, no one seems alarmed. She hears a little voice in her ear, "Large data spike over in the city. Local network seems to be struggling, but it's not targeted at us." She nods, and taps her thumb to the pads of her fingers as if she was playing the piano. A few lights dance across her vision as she sends the last five minutes of what she saw to her partner many towers away.
