@@ -61,3 +61,13 @@ Across the bay, Oakland was a metropolis of towering warehouses. Buildings over 
 Cristine stands by the window sipping a glass of white wine. Her slinky black dress and high heels offset by the rifle and sword slung across her back. She peered out examing the broken bridge and the sliver of fog that was once the great city by the bay. A bright light blue and then orange light flashes, coloring the fog. Causing it to glow internally briefly.
 
 She glances back at the party, no one seems alarmed. She hears a little voice in her ear, "Large data spike over in the city. Local network seems to be struggling, but it's not targeted at us." She nods, and taps her thumb to the pads of her fingers as if she was playing the piano. A few lights dance across her vision as she sends the last five minutes of what she saw to her partner many towers away.
+
+## Chapter 3
+
+A young man sits crouched over a table. The table is surrounded by random chairs, pilfered from old companies and from the side of the street. The room is sparse, this large table and its twelve chairs, a rack of computers in the corner, two large windows, a matress in the corner with a pile of sheets in the middle, and some shelves with a smattering of tools, electronics and books scattered across them.
+
+On the table a camping stove, an empty pot, a small single tap jockey box and three unoped cans of chilli.
+
+The man stares intently at nothing, with slight twitches of his fingers being the only sign of movement.
+
+In his mind though, the room is alight with screens. Some describing every single movement and word being said in the room Cristine is gaurding. Others, random things throughout the net. Some describe side projects where he is breaking into digital places, and others describing the defensive battles they are currently playing.
