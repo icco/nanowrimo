@@ -9,3 +9,5 @@ The number of young men teleported from New York City alone between the summer o
 In 2012, three cases of "tele-quests" caused national attention. All three were substantially different from past quests, and all three changed the landscape of teenage self exploration. This is their story.
 
 # Chapter 2
+
+The combination Taco Bell and Pizza Hut in Union Square was empty. A trio walked in, obviously drunk. Two women, one man. They approached a bored looking woman at the cash register, ordered ten tacos and some sodas, paid with a credit card, and adjourned to a nearby booth. A later review of the security cameras would show that their tacos were made, picked up by the man, delivered to the table and quickly devoured. The three were laughing the whole time. Sharing jokes as drunk friends do.
