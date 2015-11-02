@@ -11,3 +11,5 @@ In 2012, three cases of "tele-quests" caused national attention. All three were 
 # Chapter 2
 
 The combination Taco Bell and Pizza Hut in Union Square was empty. A trio walked in, obviously drunk. Two women, one man. They approached a bored looking woman at the cash register, ordered ten tacos and some sodas, paid with a credit card, and adjourned to a nearby booth. A later review of the security cameras would show that their tacos were made, picked up by the man, delivered to the table and quickly devoured. The three were laughing the whole time. Sharing jokes as drunk friends do.
+
+After about half an hour, the trio deposits their trash and stumbles towards the front door. As soon as they push the front door, a flash of light appears, and all three disappear. The cashier did not see this, as she was helping back in the kitchen. No one noticed the flash of light, and a few passer-bys assumed it was a new auto-matic door.
